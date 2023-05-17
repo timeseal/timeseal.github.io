@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>最新文章</title>
+    <url>/posts/b09ea400.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>流年印迹 博客起源</title>
+    <url>/posts/63785.html</url>
+    <content><![CDATA[<div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p><strong>欢迎来到  流年印迹  博客</strong></p>
+</div>
+
+<h2 id="我为何要建立这博客呢？"><a href="#我为何要建立这博客呢？" class="headerlink" title="我为何要建立这博客呢？"></a>我为何要建立这博客呢？</h2><p>我们都知道，由于人的记忆有限，所以我们大脑会自动帮我们优化掉那些不常用的知识。鉴于此，所以我决定建立此博客记录学过的知识。以备不时之需。</p>
+<p>说来惭愧，其实我之前也建立过博客，甚至买了<mark class="hl-label blue">服务器</mark> 跟<mark class="hl-label pink">域名</mark> 来进行搭建。</p>
+<p>可能是由于惰性，也可能是由于自己对博客并不上心，觉得学习博客相关知识太过耗时，又要学<mark class="hl-label red">markdown</mark> ，又要学怎么优化博客主题代码，如何设计代码才能得出自己想要的界面效果。</p>
+<p>还要学<mark class="hl-label purple">CDN</mark> 加速，<mark class="hl-label orange">部署</mark> 以及<mark class="hl-label green">搜索引擎优化SEO</mark> 等等等……</p>
+<p>觉得与其把这些时间浪费在博客上，不如多学一点技术来得实在。所以结果可想而知，尽管我解决了一个又一个的<mark class="hl-label orange">技术问题</mark> ，但是我并没有把它记录下来，所以帮助不了屏幕前遇上相同技术问题的你们。而由于<mark class="hl-label red">遗忘定律</mark> ，我该忘的知识点还是会忘，尽管在再次遇到时可能会想起相应的解决办法，但终究是模糊不牢靠的，也就有个印象，终究还是会到处查找资料来解决。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/DeepThinking-AI/picgoBlog/img/background.jpg" alt="imge1" title="看累了？不如养养眼"><br>也有可能是想拥有真正意义上属于自己的<mark class="hl-label blue">永久服务器</mark> 跟<mark class="hl-label pink">永久域名</mark> ，说白了就是想白嫖。但是<mark class="hl-label orange">甲骨文</mark> 申请不到，需要<mark class="hl-label purple">国外信用卡</mark> 才能注册。而自己的<mark class="hl-label green">树莓派</mark> 可以拿来做服务器，但是又需要<mark class="hl-label red">公网ip</mark> 。好吧，说了那么多，总之，就是想要的东西处处要钱，而自己囊中羞涩。所以我最终选择了使用<mark class="hl-label blue">hexo</mark>  + <mark class="hl-label purple">GitHub</mark> <mark class="hl-label purple">Pages</mark> 的方式来实现我白嫖的愿景，顺便能记录所学所思，何乐而不为呢？</p>
+<h2 id="建立博客的好处"><a href="#建立博客的好处" class="headerlink" title="建立博客的好处"></a>建立博客的好处</h2><p>说到建立博客的好处，你会想到哪几点呢？我觉得大家的想法大概是一致的。如果建立博客没有用处那为何还有人去建立？只是为了显示自己的优越性吗？我想不是这样的。</p>
+<div class="note info modern"><p>关于建立博客的好处，我想，大致有以下几个方面：</p>
+</div>
+
+<div class="note success simple"><h3 id="知识记录"><a href="#知识记录" class="headerlink" title="知识记录"></a>知识记录</h3></div>
+
+<p>建立博客让我们能够及时把学到的知识记录下来，以便复习之用。</p>
+<p>那就可能会有人抬杠说，既然都是复习记录，记在笔记本上不也一样吗？</p>
+<p>没错，知识记在笔记本上确实也是可以的，但是，笔记本毕竟不同于博客。要知道博客是搭建在网络上的，我们记下的笔记会被互联网上的大多数人浏览到，当然这需要你的网站能被大多数搜索引擎收录，这样别人就能够在对应的搜索引擎里面搜到我们的博客地址。而且如果你的网站权重越靠前，就越能被别人看到。这样你的知识就会经过互联网上很多人的审查，从而纠正你的错误，修正你的思维误区。甚至可能让你拓展视野，从不同的角度看待你的知识。</p>
+<p>而记在笔记本的方式就相形见绌了，笔记本的优点博客都有，同样都能检索与用来复习，记录错误。但是，博客检索只需要在搜索框输入相应的关键字就可呼之欲出了，反倒是笔记本</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+        <tag>起源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>演示文章</title>
+    <url>/posts/6ca41548.html</url>
+    <content><![CDATA[<p>主题功能演示用</p>
+]]></content>
+  </entry>
+</search>
