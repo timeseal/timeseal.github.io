@@ -6757,6 +6757,9 @@ center#name-container {
 .newPost-right {
     right: 15px;
 }
+#recent-posts > .recent-post-item {
+    height: 14em;
+}
 svg.icon {
     width: 1em;
     height: 1em;
